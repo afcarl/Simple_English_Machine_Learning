@@ -1,0 +1,30 @@
+True column names:
+  - Timestamp
+  - Did you apply for the CSR on August 21 or later?
+  - What is your current (pre-CSR) approximate credit score?
+  - What is your current (pre-CSR) relative 5/24 status?
+  - What is your current (pre-CSR) exact 5/24 status? Put how many cards you've opened in the last 24 months. For instance, if you're at 13/24, put just 13.
+  - How many Chase cards do you currently (pre-CSR) have? CHASE cards specifically.
+  - When did you open your last (pre-CSR) Chase card? Again, last CHASE card specifically.
+  - What percentage of your income do you already have as CL with Chase (Pre-CSR)? For instance, if you have 20k CL total among your existing cards on income of 80k, you'd be at 25%. Put your current % (before applying for CSR) below.
+  - How did you apply?
+  - When did you apply? See description below for format.
+  - What was your stated income? No commas, put it in format of ######. For instance 46000 or 157000.
+  - What bureau did they pull? Select all that apply.
+  - What was the INITIAL result of your application? Even if you were eventually approved after pending or denial, put pending or denied for this question so we can capture the relevant information. Only put "instant approval" if you got that right away.
+  - What is the current/final result of your application after it initially went pending? Answer with the most current result in mind - including multiple calls to recon if applicable.
+  - Please provide specifics of the above.
+  - What is the current/final result of your application after it got initially denied? Answer with the most current result in mind - including multiple calls to recon if applicable.
+  - Please provide specifics of the above..1
+  - If you got a hard denial, have you received the reason (either by letter, or from recon)? Select any/all that apply.
+  - What credit limit did you get for the CSR? Put in format of XXXXX. For instance, 10000 or 12000. DON'T put 10k or 12k, to make it easier to tabulate.
+  - Anything else we should know about your CSR application?
+  - How old are you?
+  - What gender are you?
+  - Do you primarily go for:
+  - On average, how much MS do you do PER MONTH?
+  - Which of the following cards do you currently hold? Select all that apply.
+  - How many people are you churning for? ie what is your relationship status?
+  - What state do you live in currently? If you don't live in the 50 US states or DC. Use the "Other" line at the bottom to put in where you are residing.
+  - How long have you been a Chase customer? Any relationship: banking, mortgage, credit cards, etc. Answer in years.
+  - Do you have a checking/savings bank account with Chase? How much is in it? If multiple accounts use the total.']
